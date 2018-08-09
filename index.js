@@ -1,3 +1,4 @@
+const func = () => console.log("Função inútil");
 let n = false;
 if (n)
     console.log("Qualquer outra coisa!");
