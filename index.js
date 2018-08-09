@@ -1,4 +1,4 @@
-console.log("Qualquer coisa!");
+console.log("Qualquer outra coisa!");
 console.log("Olá Mundo!");
 
 const add = (a, b) => a + b;
